@@ -15,7 +15,7 @@
       <div class="logo">
         <a class="logo__link" href="{{ site.baseurl }}/">
         {% if site.data.settings.logo %}
-          <img class="logo__image" src="/" alt="{{ site.data.settings.author.name }}">
+          <img class="logo__image" src="{{ site.data.settings.logo | relative_url }}" alt="{{ site.data.settings.author.name }}">
         {% else %}
           {{ site.data.settings.author.name }}
         {% endif %}
