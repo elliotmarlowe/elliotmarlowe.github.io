@@ -11,8 +11,8 @@ menu-settings:
   menu-items:
     - title: 'Home'
       url: '/'
-    - title: 'About'
-      url: '/about/'
+    - title: 'Biography'
+      url: '/biography/'
     - title: 'Contact Me'
       url: '/contact/'
     - title: 'Style Guide'
