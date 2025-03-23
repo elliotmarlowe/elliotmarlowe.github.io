@@ -4,7 +4,7 @@ title:  "Behind the Music: Starlit Night"
 description: Discover the story behind Starlit Night, a breathtaking composition that captures the stillness, wonder, and quiet connection of a starry winter evening. Explore the inspiration and emotion woven into this timeless piece.
 date:   2023-03-15 00:00:00 +0000
 image:  'images/deep-sky-astrophoto-2025-03-18-21-10-07-utc.jpg'
-tags:   [Behind the Music, Notes]
+tags:   [Behind the Music]
 ---
 *Starlit Night* began as an idea to capture a single, magical moment in time—a stillness that feels both vast and deeply personal. I wanted to paint a picture of the kind of night where the world seems to pause, and the universe opens up above you. The stars, cold and distant, speak to something eternal, yet their light brings a quiet warmth, reminding us of the beauty that connects us all.
 
