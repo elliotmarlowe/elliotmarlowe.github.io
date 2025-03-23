@@ -36,7 +36,8 @@ hero:
 # Contact Settings
 contact:
   email: sales@aurorarm.com # Add your email for contact form
-  description: For sales inquiries, bookings, collaborations, or other business matters, please use the form below. Kindly note this form is not intended for fanmail. We appreciate your understanding. # Add a description of your form
+  form-id: mqapqjok # Add your form ID. For example - https://formspree.io/f/your-form-id
+  description: For inquiries, bookings, collaborations, or other business matters, please use the form below. Kindly note this form is not intended for fanmail. We appreciate your understanding. # Add a description of your form
 
 # NOTE
 # Norlin theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
@@ -60,7 +61,7 @@ social:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
